@@ -3,7 +3,7 @@
 - Using Langevin equation to simulate centrosome dynamics and stochastic fluctuations.
 
 
-    $ \frac{d\bold{X}}{dt} = -1/\gamma (\bold{F}_{cs}+\bold{F}_{rad}) + \eta(t) $
+    $\ \frac{d\bold{X}}{dt} = 1/\gamma (\bold{F}_{cs}+\bold{F}_{rad}) + \eta(t) \$
 
 
 - Integrating inter-CS force energy and radial energy potentials.
