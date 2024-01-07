@@ -2,9 +2,9 @@
 ## Features
 - Using Langevin equation to simulate centrosome dynamics and stochastic fluctuations.
 
-<br>
+<p>
 $\ m \frac{dv}{dt} = -\gamma v + \sqrt{2kT\gamma} R(t) \$
-<br>
+<p>
 
 - Integrating inter-CS force energy and radial energy potentials.
 - Using step-adaptive method to solve stochastic differential equations. 
