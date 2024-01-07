@@ -11,7 +11,7 @@ Using Langevin equation to simulate centrosome dynamics and stochastic fluctuati
 
 <p align="center">
     <br>
-    <video src="https://github.com/lxc-dolphin/CentrosomeClustering/blob/main/sup/CS_clustering.mp4" width="800"/>
+    <video src="https://github.com/lxc-dolphin/CentrosomeClustering/blob/main/sup/CS_clustering.mp4"></video>
     <br>
 <p>
 
