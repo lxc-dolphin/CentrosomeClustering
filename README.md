@@ -1,11 +1,6 @@
 # Stochastic Simulation for [centrosome movement and spindle assembly](https://www.molbiolcell.org/doi/full/10.1091/mbc.E22-10-0485)
 ## Features
 - Using Langevin equation to simulate centrosome dynamics and stochastic fluctuations.
-
-
-    $\ \frac{d\bold{X}}{dt} = 1/\gamma (\bold{F}_{cs}+\bold{F}_{rad}) + \eta(t) \$
-
-
 - Integrating inter-CS force energy and radial energy potentials.
 - Using step-adaptive method to solve stochastic differential equations. 
   
