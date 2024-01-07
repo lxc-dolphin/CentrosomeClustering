@@ -3,10 +3,4 @@ Using Langevin equation to simulate centrosome dynamics and stochastic fluctuati
 # Requirements
 - [Julia](https://julialang.org/)
 - Julia Packages:
-  LinearAlgebra
-  DifferentialEquations
-  Distances
-  Combinatorics
-  Plots
-  Clustering
-  Interpolations
+  LinearAlgebra, DifferentialEquations, Distances, Combinatorics, Plots, Clustering, Interpolations.
